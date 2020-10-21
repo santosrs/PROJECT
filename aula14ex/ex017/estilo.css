@@ -1,0 +1,46 @@
+body {
+    background: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: greenyellow;
+    text-align: center;
+}
+
+section {
+    background: rgb(197, 195, 195);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+}
+
+footer {
+    color: greenyellow;
+    text-align: center;
+    font-style: italic;
+}
+
+h1 {
+    background-color: black;
+}
+
+input {
+    background-color: black;
+    color: greenyellow;
+}
+
+select {
+    background-color: black;
+    color: greenyellow;
+}
+
+option {
+    background: black;
+}
+
+div p {
+    color: orange;
+}
